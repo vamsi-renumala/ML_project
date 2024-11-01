@@ -7,4 +7,5 @@ catboost
 xgboost
 Pipeline
 dill
+flask
 -e .
